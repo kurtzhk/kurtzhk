@@ -1,6 +1,5 @@
-hey
+hey.
 
-<!---
-kurtzhk/kurtzhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i like web dev and accessible technology.
+
+kotlin, typescript, php, javascript and c are my favourites.
